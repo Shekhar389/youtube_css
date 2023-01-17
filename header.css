@@ -31,11 +31,23 @@
 {
     height: 40px;
     width: 60px;
+    background-color: rgb(235, 231, 231);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(192, 192, 192);
+    margin-right: 10px;
+}
+.search-icon
+{
+    height: 25px;
+    margin-top: 5px;
     
 }
 .search-bar{
     height: 34px;
     padding-left: 10px;
+    border-width: 1px;
+    border-color: gray;
 }
 .search-bar::placeholder{
     font-family: roboto,arial;
@@ -44,6 +56,8 @@
 .voice-search{
     height: 40px;
     width: 40px;
+    border-radius: 100%;
+    border-style: none;
 }
 .right
 {
