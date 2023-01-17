@@ -3,9 +3,11 @@
     width: 100%;
   
 }
-.search{
+.search-bar{
     font-size: 20px;
     display: block;
+    flex: 1;
+    
     
 } 
 .video-grid{
