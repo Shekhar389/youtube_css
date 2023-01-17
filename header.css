@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    height: 55px;
+}
+.left{
+    width: 150px;
+}
+.mid{
+    flex: 1;
+    margin-left: 70px;
+    margin-right: 35px;
+}
+.right
+{
+    width: 200px;
+}
